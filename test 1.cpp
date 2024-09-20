@@ -6,9 +6,6 @@
 int main()
 {
     std::cout << "Helloo kkkk ";
-    std::cout << "12345";
-    std::cout << "nsdaa";
-        std::cout << "12345";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
