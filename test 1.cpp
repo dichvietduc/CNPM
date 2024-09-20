@@ -7,7 +7,7 @@ int main()
 {
     std::cout << "Helloo kkkk ";
     std::cout << "12345";
-    std::cout << "naka"
+    std::cout << "nsdaa"
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
